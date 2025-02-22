@@ -18,7 +18,7 @@ The calculator provides the following functionalities:
 - **Percentage (%):** Calculates the percentage of the current value.
 - **Inverse (1/x):** Calculates the reciprocal of the current number.
 
-## Requirements
+## Technologies
 
 - **Microsoft Visual Studio** (any version supporting C# development)
 - **.NET Framework** (ensure compatibility with the version used in the project)
